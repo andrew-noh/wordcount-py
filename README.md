@@ -1,11 +1,11 @@
-# Wordcount
+# Wordcount #
 Word Frequency count comparison of the Apple iOS HIG and Android Material Design documents
 
-###Text sources:
+###Text sources###:
 1. [Apple iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
 2. [Android Material Design](https://material.io/guidelines/material-design/introduction.html)
 
-###File list:
+###File list###:
 1. Source Text(.docx)
  - iOS Human Interface Guidelines.docx
  - Material design.docx
