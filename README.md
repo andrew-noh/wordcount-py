@@ -1,11 +1,11 @@
-# Wordcount #
+**Wordcount**
 Word Frequency count comparison of the Apple iOS HIG and Android Material Design documents
 
-###Text sources###:
+***Text sources***:
 1. [Apple iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/)
 2. [Android Material Design](https://material.io/guidelines/material-design/introduction.html)
 
-###File list###:
+***File list***:
 1. Source Text(.docx)
  - iOS Human Interface Guidelines.docx
  - Material design.docx
@@ -41,5 +41,5 @@ Word Frequency count comparison of the Apple iOS HIG and Android Material Design
  
  ***=IF(D4>500,19,IF(AND(D4<500,D4>300),14,IF(AND(D4<300,D4>150),10,IF(AND(D4<150,D4>60),6,IF(AND(D4<60,D4>30),3,2)))))***
  
-Less miningful grammatical parts of words like articles(the, a) and prepositions(for, with, when) are manually reduced.
+Less meaningful grammatical parts of words like articles(the, a) and prepositions(for, with, when) are manually reduced.
 
